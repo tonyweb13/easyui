@@ -1,11 +1,16 @@
 # EasyUI
 
 EasyUI is a collection of user-interface components based on jQuery, Angular, Vue and React.
-easyui provides essential functionality for building modern, interactive, javascript applications.
-using easyui you don't need to write many javascript code, you usually define user-interface by writing some HTML markups.
-complete framework for HTML5 web page.
-easyui saves your time and scales while developing your products.
-easyui is very easy but powerful.
+
+EasyUI provides essential functionality for building modern, interactive, javascript applications.
+
+Using easyui you don't need to write many javascript code, you usually define user-interface by writing some HTML markups.
+
+Complete framework for HTML5 web page.
+
+EasyUI saves your time and scales while developing your products.
+
+EasyUI is very easy but powerful.
 
 
 Current Version: 1.5
